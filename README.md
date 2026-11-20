@@ -24,12 +24,12 @@ I bridge deep AI research with mission-critical systems engineering. Combining *
 
 | Project | Domain | Architecture & Key Benchmark |
 | :--- | :--- | :--- |
-| **[Construct-lite](./construct-lite)** | Governed Multi-Agent Gateway | 7-microservice Go/Python gateway routing local & cloud LLMs with CFG JSON enforcement, token budgets, and HITL PR gating (**100% schema compliance**, **42.7% lower p95 latency**). |
-| **[HyperDrive-RL](./hyperdrive-rl)** | Native C++/CUDA RL Inference | Allocation-free C++/CUDA plugin running PyTorch/ONNX policies natively inside Unity simulations without Python runtime overhead (**up to 500x inference acceleration**). |
-| **[StreamGate](./streamgate)** | Distributed WebRTC Engine | High-concurrency Go & gRPC SFU routing layer engineered for real-time media delivery (**18,000+ concurrent streams** at **<1% packet loss**). |
-| **[LineSight Mini](./linesight-mini)** | Industrial Edge Computer Vision | Deterministic CPU-only visual inspection pipeline with declarative YAML product rules and sub-20ms inference latency (**16.4 ms/frame on standard CPU**). |
-| **[Snooker Judge](./snooker-judge)** | Real-Time CV & Physics Tracking | Lens-rectified OpenCV ball-tracking and trajectory engine validated against a 30 Hz deterministic physics ground-truth simulator. |
-| **[Clinic Voice Agent](./clinic-voice-agent)** | Low-Latency Open-Source Voice AI | State-machine-governed voice appointment agent (FastAPI, Pipecat, Whisper) with idempotent booking guarantees and per-turn latency telemetry. |
+| **[Construct-lite](https://github.com)** | Governed Multi-Agent Gateway | 7-microservice Go/Python gateway routing local & cloud LLMs with CFG JSON enforcement, token budgets, and HITL PR gating (**100% schema compliance**, **42.7% lower p95 latency**). |
+| **[HyperDrive-RL](https://github.com)** | Native C++/CUDA RL Inference | Allocation-free C++/CUDA plugin running PyTorch/ONNX policies natively inside Unity simulations without Python runtime overhead (**up to 500x inference acceleration**). |
+| **[StreamGate](https://github.com)** | Distributed WebRTC Engine | High-concurrency Go & gRPC SFU routing layer engineered for real-time media delivery (**18,000+ concurrent streams** at **<1% packet loss**). |
+| **[LineSight Mini](https://github.com)** | Industrial Edge Computer Vision | Deterministic CPU-only visual inspection pipeline with declarative YAML product rules and sub-20ms inference latency (**16.4 ms/frame on standard CPU**). |
+| **[Snooker Judge](https://github.com)** | Real-Time CV & Physics Tracking | Lens-rectified OpenCV ball-tracking and trajectory engine validated against a 30 Hz deterministic physics ground-truth simulator. |
+| **[Clinic Voice Agent](https://github.com)** | Low-Latency Open-Source Voice AI | State-machine-governed voice appointment agent (FastAPI, Pipecat, Whisper) with idempotent booking guarantees and per-turn latency telemetry. |
 
 ---
 
@@ -54,4 +54,4 @@ I bridge deep AI research with mission-critical systems engineering. Combining *
 ## Open to Collaboration
 Available for **remote deep-tech R&D roles, fractional Principal AI Systems architecture, and academic research collaborations** in distributed AI inference, autonomous robotics, and governed agentic workflows.
 
-📫 **Reach out:** `bindasho@yahoo.com` | [LinkedIn]( https://www.linkedin.com/in/bhanunjay-kumar-44580a7 )
+📫 **Reach out:** `bindasho@yahoo.com` | [LinkedIn](https://www.linkedin.com/in/bhanunjay-kumar-44580a7 )

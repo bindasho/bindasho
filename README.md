@@ -24,7 +24,7 @@ I bridge deep AI research with mission-critical systems engineering. Combining *
 
 | Project | Domain | Architecture & Key Benchmark |
 | :--- | :--- | :--- |
-| **[Construct-lite](. https://github.com/bindasho/construct-lite )** | Governed Multi-Agent Gateway | 7-microservice Go/Python gateway routing local & cloud LLMs with CFG JSON enforcement, token budgets, and HITL PR gating (**100% schema compliance**, **42.7% lower p95 latency**). |
+| **[Construct-lite](https://github.com/bindasho/construct-lite )** | Governed Multi-Agent Gateway | 7-microservice Go/Python gateway routing local & cloud LLMs with CFG JSON enforcement, token budgets, and HITL PR gating (**100% schema compliance**, **42.7% lower p95 latency**). |
 | **[HyperDrive-RL](https://github.com)** | Native C++/CUDA RL Inference | Allocation-free C++/CUDA plugin running PyTorch/ONNX policies natively inside Unity simulations without Python runtime overhead (**up to 500x inference acceleration**). |
 | **[StreamGate](https://github.com)** | Distributed WebRTC Engine | High-concurrency Go & gRPC SFU routing layer engineered for real-time media delivery (**18,000+ concurrent streams** at **<1% packet loss**). |
 | **[LineSight Mini](https://github.com)** | Industrial Edge Computer Vision | Deterministic CPU-only visual inspection pipeline with declarative YAML product rules and sub-20ms inference latency (**16.4 ms/frame on standard CPU**). |
